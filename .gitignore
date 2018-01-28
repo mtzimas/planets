@@ -1,2 +1,5 @@
 pluto.txt
 test.txt
+*.dat
+!c.dat
+
